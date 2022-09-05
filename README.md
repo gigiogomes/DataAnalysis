@@ -4,4 +4,4 @@ The port of Santos is the largest in Latin America and handled more than 147 Mil
 
 Unlike other ports in Brazil, where only one port operator acts in this market, in Santos there is a great competition among the container terminals.
 
-The animation shows the market share of the main players in the last ten years
+The animation shows the market share of the main players in the last ten years.
